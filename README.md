@@ -32,3 +32,7 @@ Es un lenguaje de ALTO NIVEL
 MULTIHILO
 
 Son almacenados en BSON (Binary JSON)
+Mongo DB comenzo en 2007. Se llamaba 10g
+Licencia GNU AGPL de la versión Community de Mongo DB
+
+Diferencias entre NoSQL y SQL
